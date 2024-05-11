@@ -1,4 +1,4 @@
-name: ci
+mitchell: ci
 on:
   workflow_dispatch:
   push:
